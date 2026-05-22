@@ -204,4 +204,8 @@ For production deployment:
 7. Add comprehensive error handling and logging
 8. Set up monitoring and analytics
 
+
+## By Wilfred Njuguna
+## Email: njugunawilfred447@gmail.com
+
 ---
